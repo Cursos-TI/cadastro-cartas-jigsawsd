@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 
 /*
  * ========================================
@@ -15,12 +14,9 @@
  * Permitir que o jogador escolha 2 atributos diferentes para comparar,
  * somar os valores desses atributos e declarar o vencedor com base na soma.
  * 
- * CONCEITOS UTILIZADOS:
- * - Variaveis (char, int, float, unsigned long)
- * - Estruturas de decisao (if-else, switch-case)
- * - Operadores relacionais (>, <, ==)
- * - Operador ternario ( ? : )
- * - Entrada/saida (scanf, printf)
+ * BIBLIOTECAS:
+ * - stdio.h: scanf, printf (entrada/saida)
+ * - stdlib.h: utilitarios basicos
  */
 
 int main() {
